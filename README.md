@@ -1,0 +1,2 @@
+# 2018tradenetworkgraphs
+Visualizing major trade relations between countries in 2018 using social network analytics in R. R analysis includes: density, average path length, transitivity, global clustering, reciprocity, Erdos Renyi random graph generation, assortativity, Barabasi network model visual, degree, betweenness, node, and  Pagerank centrality visual network graphs of imports and exports, spinglass community detection/ learning algorithm, blockmodels, structural equivalency, k-clusters and dendograms/ heat maps and method testing. 
